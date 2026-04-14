@@ -28,7 +28,7 @@
 
 **Results**
 
-![Results](Development_Journal/pictures/phase1_results.png)
+![Results](Development_Journal\pictures\phase1_results.png)
 
 | Mode               | Time (ms) | Speedup |
 |--------------------|-----------|---------|
