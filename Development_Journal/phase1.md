@@ -23,7 +23,7 @@
 **Setup**  
 - Graph: `soc-Slashdot0902.txt` – 82,168 vertices, 948,464 directed edges  
 - Queries: `queries10000.txt` – 10,000 random (src, K) pairs, K ∈ [1,5], half count, half max  
-- Hardware: 16‑thread CPU (e.g., AMD Ryzen 7 or Intel i9 with hyper‑threading)  
+- Hardware: I5-14400F 16‑thread CPU (e.g., AMD Ryzen 7 or Intel i9 with hyper‑threading)  
 - Compiler: `g++ -std=c++20 -pthread -O2`
 
 **Results**
